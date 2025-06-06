@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20250606_003",
+    "CreatedOn": "2025-06-06T10:21:48.8052721Z",
+    "TotalEstimation": 90,
+    "Status": "Draft",
+    "PlannedDate": "2025-06-09T00:00:00",
+    "Remarks": "New",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "MID20274",
+      "Title": "SWITCHING DIODE",
+      "PartNumber": "15MQ040",
+      "Manufacturer": "IOR",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 3,
+      "UnitCost": 9,
+      "Estimation": 27
+    },
+    {
+      "SlNo": 2,
+      "MID": "MID20279",
+      "Title": "AE Capacitors (2200uF - 100V -85deg)",
+      "PartNumber": "SLPX222M100A4P3",
+      "Manufacturer": "CDE",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 2,
+      "UnitCost": 2,
+      "Estimation": 4
+    },
+    {
+      "SlNo": 3,
+      "MID": "MID20269",
+      "Title": "Dual Channel MOSFET (N-type)",
+      "PartNumber": "ZXMS6004DT8",
+      "Manufacturer": "DIODES",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 4,
+      "UnitCost": 3,
+      "Estimation": 12
+    },
+    {
+      "SlNo": 4,
+      "MID": "MID20287",
+      "Title": "EVALUVATION BOARD - AT91SAM9260",
+      "PartNumber": "AT91SAM9260-EK ",
+      "Manufacturer": "ATMEL CORPORATION",
+      "SupplierType": "Online",
+      "SupplierName": " VijayElectronics, Vellore",
+      "Quantity": 7,
+      "UnitCost": 4,
+      "Estimation": 28
+    },
+    {
+      "SlNo": 5,
+      "MID": "MID20280",
+      "Title": "Power MOSFET (N-type)",
+      "PartNumber": "CSD19536KCS",
+      "Manufacturer": "TEXAS INSTRUMENTS (TI)",
+      "SupplierType": "Online",
+      "SupplierName": " VijayElectronics, Vellore",
+      "Quantity": 2,
+      "UnitCost": 8,
+      "Estimation": 16
+    },
+    {
+      "SlNo": 6,
+      "MID": "MID20284",
+      "Title": "4G/5G Bracket Antenna (698-2700MHz)",
+      "PartNumber": "B4BE-6-60-5SP",
+      "Manufacturer": "PANORAMA ANTENNAS",
+      "SupplierType": "Online",
+      "SupplierName": " VijayElectronics, Vellore",
+      "Quantity": 1,
+      "UnitCost": 3,
+      "Estimation": 3
+    }
+  ]
+}
