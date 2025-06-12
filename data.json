@@ -6,7 +6,8 @@
     "Status": "Draft",
     "PlannedDate": "2025-06-09T00:00:00",
     "Remarks": "New",
-    "Deducted": true
+    "Deducted": true,
+    "Approval": "Rejected"
   },
   "materials": [
     {
